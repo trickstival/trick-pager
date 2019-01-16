@@ -1,8 +1,9 @@
 {
   "name": "trick-pager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A page-based callback register",
   "main": "index.js",
   "author": "trickstival",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/trickstival/trick-pager"
 }

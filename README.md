@@ -1,5 +1,12 @@
 # A lib to manage pagination.
 
+Install:
+```bash
+npm i trick-pager
+# or
+yarn add trick-pager
+```
+
 Usage:
 
 ```js
